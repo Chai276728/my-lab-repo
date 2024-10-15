@@ -1,2 +1,2 @@
-# my-experimental-repo
+# my-lab-repo
 Store some experimental code
